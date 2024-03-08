@@ -1,0 +1,19 @@
+---
+title: "Angela Zhao, BS"
+image: profile_final.jpg
+about:
+  template: jolla
+---
+
+### ScM Biostatistics Student at Johns Hopkins University
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+## quarto preview to preview
+## quarto render to render
+```
+
+[about] (about.qmd)
+[about] (about.qmd#section)
