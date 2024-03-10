@@ -2,7 +2,6 @@ project:
   type: website
 
 website:
-  output-dir: docs
   title: "Angela Zhao"
   navbar:
     left:
