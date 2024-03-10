@@ -7,8 +7,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - education.qmd
+      - publications.qmd
+      - work.qmd
 
+    right:
+      - icon: github
+        href: https://github.com/ang-zhao?tab=repositories
+      - icon: linkedin
+        href: https://www.linkedin.com/in/angela0zhao/
 format:
   html:
     theme: sandstone ## minty also good
