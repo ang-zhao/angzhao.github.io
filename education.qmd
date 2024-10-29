@@ -14,7 +14,26 @@ ScM in Biostatistics (2024)
 **McGill University**\
 BS in Joint Honours Computer Science and Biology, Minor in Mathematics (2022)
 
+**The Royal Conservatory of Music\
+**Associate Diploma (ARCT), Performer in Piano (2014)
+
 ## Skills
+
+**Languages:** Python, R, Java, C, Bash, SAS
+
+**Software/Packages:** PyTorch/Tensorflow, Git/GitHub, dashboarding/data visualization, image processing, Factset, yfinance
+
+**Cloud/Databases:** AWS, cluster computing, SQL, REDCap, large Biobank data processing
+
+**Theory:** Deep learning, regression, survival analysis, time-series/functional data analysis, statistics, measure theory probability
+
+**Highlighted Coursework**
+
+[Graduate:]{.underline} 4 terms each of Measure Theory Probability, Statistics, Advanced Methods in Biostatistics, and Statistical Computing.
+
+Machine Learning, Survival Analysis, Multi-Level Modelling, Causal Inference, Advanced Data Science.
+
+[Undergraduate:]{.underline} Object- Oriented Programming, Algorithms and Data Structures, Artificial Intelligence, Discrete Mathematics, Real Analysis, Multivariate Calculus, Linear Algebra, Geometry, ODEs.
 
 ## Awards
 
