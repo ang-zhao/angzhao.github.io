@@ -4,28 +4,28 @@
     "href": "work.html",
     "title": "Work Experience",
     "section": "",
-    "text": "Department of Biostatistics - Dr. Brian Caffo, JHU – Research Assistant (July 2023 - present)\n\nEvaluated and diagnosed R and Python-based (Keras, PyTorch, TensorFlow) stochastic time-series models – including RNNs, transformers, gaussian process models, and AR models – for regional fMRI data from the Human Connectome Project.\n\nWearable and Implantable Technology Group - Dr. Ciprian Crainiceanu, JHU – Research Assistant (Sept. 2022 - present)\n\nBiophysics and Computational Biology Lab - Dr. Jackie Vogel, McGill – Research Assistant (Jan 2020 - Aug. 2022)"
+    "text": "Emerald Advisors, LLC | Life Sciences Research Analyst Intern | May 2024 - Aug. 2024\n\nAssisted senior analysts in covering 20+ biotech/therapeutics companies at a long-only firm managing ∼$5B of AUM.\nEvaluated scientific literature, clinical trial data, and business filings as part of the due diligence process for new ideas.\nContributed to the BUY decision on a stock that went up 50+% and made a positive 8bps impact to the portfolio.\nConducted due diligence for an IPO, including constructing comps tables and reviewing SEC-1 filings.\n\nJohns Hopkins University, Wearable and Implantable Technology Group | Research Associate for Dr. Ciprian Crainiceanu | Sep. 2022 - Present\n\nHelped develop inference procedures for functional cox models that consider the inherent correlation of timeseries data.\nDemonstrated that wearable device metrics improve the performance of traditional survival models by up to 10%.\nProduced robust R pipelines for analyzing high-dimensional data on a cluster computer (N = 500, 000, p > 1000).\nThis work resulted in 1 peer-reviewed paper Springer Journal of Neurology and 3 papers under revision.\n\nJohns Hopkins University, Department of Biostatistics | Research Assistant for Dr. Brian Caffo | Jul. 2023 - May 2024\n\nComprehensively compared stochastic timeseries models to capture the complex dynamics of real/simulated fMRI data.\nLeveraged the Pytorch, Tensorflow, and Keras libraries in Python to tune and test RNNs, transformers, and AR models.\nProposed that the potency of transformers suggest a form of neural context that challenges standard fMRI assumptions.\nThis work resulted in 1 peer-reviewed review article in Annual Reviews of Statistics and 1 paper under revision.\n\nMcGill University, Quantitative Life Sciences | Research Assistant for Dr. Jackie Vogel | Jan. 2020 - Aug. 2022\n\nDeveloped shape analysis pipelines in Java and Python to identify droplet-like behaviours in proteins from video data.\nLeveraged ML for artifact removal and signal processing; weighted-mean/Gaussian approaches for subpixel positioning.\nContributed to single-cell analysis software for super-resolution image data that lead to 8+ talks, posters, and abstracts."
+  },
+  {
+    "objectID": "work.html#editorial-activities-peer-reviewer",
+    "href": "work.html#editorial-activities-peer-reviewer",
+    "title": "Work Experience",
+    "section": "Editorial Activities – Peer Reviewer",
+    "text": "Editorial Activities – Peer Reviewer\nJournal of Neurology (1)\nBiostatistics and Epidemiology (2)"
   },
   {
     "objectID": "work.html#teaching-positions",
     "href": "work.html#teaching-positions",
     "title": "Work Experience",
     "section": "Teaching Positions",
-    "text": "Teaching Positions"
+    "text": "Teaching Positions\nJohns Hopkins University\nTeaching Assistant | Statistical Programming Paradigms and Workflows, ∼45 students | 2023\nTeaching Assistant | Statistical Methods in Public Health II, ∼300 students | 2023\nTeaching Assistant | Statistical Machine Learning, ∼50 students | 2023\nMcGill University\nUndergraduate Tutor | Subjects: Discrete Maths, Algorithms and Data Structures, Organic Chemistry I, and more. | ∼10 students | 2020-2022\nTeaching Assistant | Data Science, ∼200 students | 2021\nTEAM Mentor | Physics - Electromagnetism | Tutorials and Office Hours ~200 students | 2021\nTEAM Mentor | General Chemistry 1 | Tutorials and Office Hours ~200 students | 2020\nGrader | Introduction to Biophysics, ∼150 students | 2020"
   },
   {
     "objectID": "work.html#leadership-positions",
     "href": "work.html#leadership-positions",
     "title": "Work Experience",
     "section": "Leadership Positions",
-    "text": "Leadership Positions"
-  },
-  {
-    "objectID": "work.html#miscellaneous-positions",
-    "href": "work.html#miscellaneous-positions",
-    "title": "Work Experience",
-    "section": "Miscellaneous Positions",
-    "text": "Miscellaneous Positions"
+    "text": "Leadership Positions\nJohns Hopkins University\nDepartment of Biostatistics | ScM Student-Faculty Representative | 2023-2024\nBiostatistics Students Organization | Curriculum Committee Representative | 2023-2024\nCEPH Site Visit Student Representative | For reaccreditation from the Council on Education for Public Health | 2023\nMcGill University\nPresident | McGill Integrative Biosciences Society | 2021-2022\nVP Events | McGill Integrative Biosciences Society | 2020-2021\n}\n}"
   },
   {
     "objectID": "index.html",
