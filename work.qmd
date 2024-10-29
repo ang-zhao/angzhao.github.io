@@ -1,0 +1,22 @@
+---
+title: "Work Experience"
+---
+
+## Research Positions
+
+- **Department of Biostatistics - Dr. Brian Caffo, JHU** -- *Research Assistant* (July 2023 - present)
+
+  - Evaluated and diagnosed R and Python-based (*Keras*, *PyTorch*, *TensorFlow*) stochastic time-series models -- including RNNs, transformers, gaussian process models, and AR models -- for regional fMRI data from the Human Connectome Project.
+
+- **Wearable and Implantable Technology Group - Dr. Ciprian Crainiceanu, JHU** -- *Research Assistant* (Sept. 2022 - present)
+- 
+
+- **Biophysics and Computational Biology Lab - Dr. Jackie Vogel, McGill** -- *Research Assistant* (Jan 2020 - Aug. 2022)
+
+## Teaching Positions
+
+
+## Leadership Positions
+
+
+## Miscellaneous Positions
