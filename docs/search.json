@@ -67,7 +67,7 @@
     "href": "education.html#skills",
     "title": "Education and Awards",
     "section": "Skills",
-    "text": "Skills"
+    "text": "Skills\nLanguages: Python, R, Java, C, Bash, SAS\nSoftware/Packages: PyTorch/Tensorflow, Git/GitHub, dashboarding/data visualization, image processing, Factset, yfinance\nCloud/Databases: AWS, cluster computing, SQL, REDCap, large Biobank data processing\nTheory: Deep learning, regression, survival analysis, time-series/functional data analysis, statistics, measure theory probability\nHighlighted Coursework\nGraduate: 4 terms each of Measure Theory Probability, Statistics, Advanced Methods in Biostatistics, and Statistical Computing.\nMachine Learning, Survival Analysis, Multi-Level Modelling, Causal Inference, Advanced Data Science.\nUndergraduate: Object- Oriented Programming, Algorithms and Data Structures, Artificial Intelligence, Discrete Mathematics, Real Analysis, Multivariate Calculus, Linear Algebra, Geometry, ODEs."
   },
   {
     "objectID": "education.html#awards",
