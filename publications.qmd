@@ -6,14 +6,14 @@ title: "Publications"
 
 **\* = equal contribution/co-first**
 
+1.  **Zhao A**, Cui E, Leroux A, Zhou X, Muschelli J, Lindquist M, Crainiceanu C (2024) Objectively measured physical activity using wrist-worn accelerometers as a predictor of incident Alzheimer’s Disease in the UK Biobank. *The journals of gerontology. Series A, Biological sciences and medical sciences*, glae287. Advance online publication. https://doi.org/10.1093/gerona/glae287
+
 1. Wanigatunga AA, Dong Y, Jin M, Leroux A, Cui, E, Zhou X, **Zhao A**, Schrack JA, Bandeen Roche K, Walston J, Xue QL, Lindquist MA, Crainiceanu CM. (2024). Moderate-to-Vigorous Physical Activity at Any Dose Reduces All-Cause Dementia Risk Regardless of Frailty Status. JAMDA. Accepted on 12.2.2024.
 
 1. Lindquist M A, Smith B B, Kannan A, **Zhao A**, Caffo B (2025). Measuring the Functioning Human Brain. Annual Review of
 Statistics and its Application,. https://doi.org/10.1146/annuarev-statistics-040522-100329
 
 1.  **Zhao A**, Cui E, Leroux A, Lindquist M, Crainiceanu C (2023). Evaluating the prediction performance of objective physical activity measures for incident Parkinson’s disease in the UK Biobank. *Journal of Neurology,* 270(12), 5913–5923. https://doi.org/10.1007/s00415-023-11939-0
-
-1.  **Zhao A**, Cui E, Leroux A, Zhou X, Muschelli J, Lindquist M, Crainiceanu C. Objectively measured physical activity using wrist-worn accelerometers as a predictor of incident Alzheimer’s Disease in the UK Biobank *(under review at the Journals of Gerontology, Series A)*.
 
 1.  Cui E\*, **Zhao A\***, Crainiceanu C, Leroux A. Inference for the Extended Functional Cox Model: A UK Biobank Case Study *(submitted)*.
 
