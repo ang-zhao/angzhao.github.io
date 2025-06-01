@@ -22,9 +22,9 @@ BS in Joint Honours Computer Science and Biology, Minor in Mathematics (2022)\
 
 **Languages:** Python, R, Java, C, Bash, SAS
 
-**Software/Packages:** PyTorch/Tensorflow, Git/GitHub, dashboarding/data visualization, image processing, Factset, yfinance
+**Software/Packages:** PyTorch/Tensorflow, Git/GitHub, dashboarding/data visualization, image processing, Factset, yfinance, LM Studio
 
-**Cloud/Databases:** AWS, cluster computing, SQL, REDCap, large Biobank data processing
+**Cloud/Databases:** AWS, cluster computing, SQL, REDCap, large Biobank/EHR data processing
 
 **Theory:** Deep learning, regression, survival analysis, time-series/functional data analysis, statistics, measure theory probability
 

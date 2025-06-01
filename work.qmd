@@ -71,6 +71,8 @@ Grader \| Introduction to Biophysics, ∼150 students \| 2020
 
 **Johns Hopkins University**
 
+Doctoral Student Council \| *Biostatistics Representative* \| 2025-2026
+
 Department of Biostatistics \| *ScM Student-Faculty Representative* \| 2023-2024
 
 Biostatistics Students Organization \| *Curriculum Committee Representative* \| 2023-2024
@@ -84,3 +86,5 @@ Biostatistics Students Organization \| *Curriculum Committee Representative* \| 
 *VP Events* \| McGill Integrative Biosciences Society \| 2020-2021
 
 \comment{## Miscellaneous Positions}
+
+}
