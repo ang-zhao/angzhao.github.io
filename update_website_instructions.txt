@@ -1,0 +1,6 @@
+From parent directory: 
+Qmd files automatically render to /docs folder. Only the rendered documents will be added to Github. Don't forget to update CV.
+
+> git add docs
+> git commit -m "message"
+> git push

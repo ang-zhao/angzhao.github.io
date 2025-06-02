@@ -2,7 +2,13 @@
 title: "Work Experience"
 ---
 
+\comment{TODO: make personal projects tab}
+
 ## Research Positions
+
+-   **Currently working on a tool to forecast call volume in collaboration with the Owings Mills Volunteer Firehouse to address staffing demands.**
+
+<!-- -->
 
 -   **Emerald Advisors, LLC \|** *Life Sciences Research Analyst Intern* \| May 2024 - Aug. 2024
 
@@ -86,5 +92,3 @@ Biostatistics Students Organization \| *Curriculum Committee Representative* \| 
 *VP Events* \| McGill Integrative Biosciences Society \| 2020-2021
 
 \comment{## Miscellaneous Positions}
-
-}
